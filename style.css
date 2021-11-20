@@ -495,6 +495,12 @@ section.logo {
     .footer {
         width: 100%;
     }
+    .about {
+        margin-right: 50px;
+    }
+    .blog {
+        margin-right: 50px;
+    }
     .footer .box-container .box {
         line-height: 50px;
     }
